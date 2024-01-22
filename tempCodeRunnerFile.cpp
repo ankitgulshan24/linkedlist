@@ -1,0 +1,1 @@
+node *head = new node (arr[0], nullptr);
